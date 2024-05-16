@@ -56,3 +56,5 @@
 <br/><br/>
 
 <hr/>
+
+i love konachan.com touhou
