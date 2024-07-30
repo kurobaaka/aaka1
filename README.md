@@ -54,9 +54,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 </div>
-
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waideloss&layout=donut)](https://github.com/anuraghazra/Waidelos)
-
+</div>
 <div align="center">
     <a href="https://discord.com/users/894800603467878411" target="_blank">
       <img src="https://lanyard.cnrad.dev/api/894800603467878411" alt="Discord Presence">
