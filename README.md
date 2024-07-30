@@ -41,6 +41,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<div align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Waideloss&show_icons=true&theme=dark"
@@ -52,6 +53,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waideloss&layout=donut)](https://github.com/anuraghazra/Waidelos)
 
