@@ -61,6 +61,10 @@
     </a>
 </div>
 
+</details>
+
+</div>
+
 <br/><br/>
 
 <hr/>
