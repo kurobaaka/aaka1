@@ -25,6 +25,7 @@
 <div align="center"> 
   <a href="mailto:drainlinux@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <a href="https://www.youtube.com/channel/UCYg_Xk6aHG_FKaYiRi0wmEg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-youtube-gray?style=for-the-badge&logo=youtube&logoColor=white"/><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCYg_Xk6aHG_FKaYiRi0wmEg?label=%20&style=for-the-badge"/>
   </a>
 </div>
 
