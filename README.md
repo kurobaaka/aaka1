@@ -26,9 +26,9 @@
     <a href="https://www.youtube.com/@Waideloss?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-youtube-gray?style=for-the-badge&logo=youtube&logoColor=white"/><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCX3sHGkxtRLjqHIZQ9tdarA?label=%20&style=for-the-badge"/>
   </a>
 </div>
-      
-    <img align="center" href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26759%26project%3D%26in=0">
-
+     <h1 align="center"> 
+    <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26759%26project%3D%26in=0">
+</h1>
 
  <hr/>
  
