@@ -16,21 +16,21 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Waideloss/Waideloss/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/kurobaaka/kurobaaka/issues)**
 
  </div>
  
 <div align="center"> 
   <a href="mailto:drainlinux@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-    <a href="https://www.youtube.com/@Waideloss?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-youtube-gray?style=for-the-badge&logo=youtube&logoColor=white"/><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCX3sHGkxtRLjqHIZQ9tdarA?label=%20&style=for-the-badge"/>
+    <a href="https://www.youtube.com/@kurobaaka?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-youtube-gray?style=for-the-badge&logo=youtube&logoColor=white"/><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCX3sHGkxtRLjqHIZQ9tdarA?label=%20&style=for-the-badge"/>
   </a>
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <section align="center">
-  <a href="https://github.com/Waideloss">
+  <a href="https://github.com/kurobaaka">
     <img src="https://skillicons.dev/icons?i=rust,html,js,mongodb,c,cpp,ts,css,go,md,bash,express,next,postgresql,tailwind,react,kotlin,vue,nuxt,nodejs,java,python,figma,linux&perline=12" />
   </a>
 </section>
@@ -42,11 +42,11 @@
 <div align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Waideloss&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=kurobaaka&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Waideloss&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=kurobaaka&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
@@ -54,7 +54,7 @@
 </div>
 <div align="center">
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waideloss&layout=donut)](https://github.com/anuraghazra/Waidelos)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurobaaka&layout=donut)](https://github.com/anuraghazra/Waidelos)
 </div>
 
 <div align="center">
