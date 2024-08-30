@@ -12,7 +12,7 @@
 
 <div align="center">
  
-   I’m currently working on **a my pony game**
+   I’m currently working on **multifunctional network of servers**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
