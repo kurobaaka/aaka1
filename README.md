@@ -38,6 +38,8 @@
 <br>
 <div align="center">
 <picture>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=kurobaaka&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
