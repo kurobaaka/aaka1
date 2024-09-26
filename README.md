@@ -116,21 +116,7 @@ C                        3 repos             ██░░░░░░░░░�
 
  Last Updated on 26/09/2024 11:28:40 UTC
 <!--END_SECTION:waka-->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kurobaaka&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kurobaaka&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-</div>
-<div align="center">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurobaaka&layout=donut)](https://github.com/anuraghazra/Waidelos)
-</div>
+
 
 <div align="center">
     <a href="https://discord.com/users/894800603467878411" target="_blank">
