@@ -27,22 +27,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%206%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 70.0 kB Used in GitHub's Storage 
- > 
-> 🏆 310 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 30 Public Repositories 
- > 
-> 🔑 7 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
