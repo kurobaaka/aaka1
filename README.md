@@ -36,7 +36,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
+
     <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-49%20mins-blue)
 
