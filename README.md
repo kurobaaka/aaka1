@@ -24,20 +24,9 @@
   </a>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<section align="center">
-  <a href="https://github.com/kurobaaka">
-    <img src="https://skillicons.dev/icons?i=rust,html,js,mongodb,c,cpp,ts,css,go,md,bash,express,next,postgresql,tailwind,react,kotlin,vue,nuxt,nodejs,java,python,figma,linux&perline=12" />
-  </a>
-</section>
 
-<br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-    <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-49%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
